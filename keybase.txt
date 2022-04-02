@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/mikepeligroso
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mikepeligroso.github.io
+  * I am mikepeligroso (https://keybase.io/mikepeligroso) on keybase.
+  * I have a public key with fingerprint 2370 928F 466D E83C 8ED5  5B62 1813 6BFD 3BAB 3EA6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120128571577cd80313878755dbef94198bc78af994fbf73371cde20e897fd097f60a",
+      "fingerprint": "2370928f466de83c8ed55b6218136bfd3bab3ea6",
+      "host": "keybase.io",
+      "key_id": "18136bfd3bab3ea6",
+      "kid": "01011ddc88ea2b81ec5ebe0630fc994ef1aeb205c39472b572acbffbf628c6475fc10a",
+      "uid": "8c0e9ef1c98a177068b5716ef9def519",
+      "username": "mikepeligroso"
+    },
+    "service": {
+      "hostname": "mikepeligroso.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1648931461,
+  "expire_in": 157680000,
+  "prev": "b9a229ca90733c42e5762117090c8dc3d2aba1c10bf1faea6a36d8cd50bf6a6a",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN0AnicbVJ7TBRHHD6KEB5V0WpDmspjW2OKoDu7t7uzUKxFEWiwRl6RFrzsY/bY
+gHfHvaqSs6hn0TMgtElbsJaAqASUVCiKrQGhV01FK9hSaAhPlQZqucTSCAZI52j9
+z8lkJjPzfd98v2/GvdxXE+QT+kr+QlzjlvM+3Z31No2Y3HysiBCN8gEitojIR0sT
+KpCRxarLV2UiliABhTtkOMBwnCRDkgY05CDHMLKIFF4LeChKHBQUntcqosLRNAck
+GVEkgjynyCQeWFIgoglFNeiR2WRWDVYsS9EcyVNQ0bKsjCAtQSQzjMhSAAKaFRWZ
+FgWRRgKLiXlGi5eBzYmCBW1SjXgPL3RL9l6Af+6bBECWJQiRQIkQIIlBIiJZmlQk
+bBUpQEAiRTISzWs5SmQ4SpBEBVfAUlBitRyjSGDJt21JDkok4jFJ4qEAOI5kIaYA
+FicgI4UBvBdoQWaDsA9h9D41H5lQgao3Gy1GwhFN4CO7KiFvut5yXgTbpFeteTbx
+v/pMZqPVKBkLMCjPajVZYr0i1gMmL+sjJOr+19OJqkHGuWKGHZktqtFAxAKMlKyq
+9wLAaiFPAy0Logm036SakU71IhiOhSRu3nuQHUuKvEBRvCTwJH4/SUshjKAAwE9E
+SlCWaJkSRAHgQEQFKAKOWaBZGUoygzdYvCK8FRYajEQsRWOfgh5rWlS9QbDazIhw
+dHXmLNP4BGn8/V7yfjhNUGDI82+4SgnRVFUzA22tTy4w37G5/dOlT+bL2I1GeSgj
+dfOypgFP9NQXv/m6x9fHt59M2jaZe/iXOteRmLF118rf721K/MP92pjj+/qeCZgg
+9nlSJn899cEdp8Mv7WrN0MfwnL5y5ro8dTMorepyYlu7a2puzQ3d0cWa7qBG15i7
+bMvj1ecLxGT7J8+0p/za/FLfbf1m4LNI9xVWvyNX/9OCZuZuay3crn2cXV+x571H
+AVkLt26Ez7+9a+1XHS2J7+T2B/T9UBRSM2//c/fmjrgIz4nauBVV9hU7K7YmpacX
+XVm8M7RyZMdEUmZY+OjvGREXnUmHrgd2f9rhX9hV/SaTFDa9YeTsVNtMw6O+7XMh
+Ga7krYhqhyu7KwyXC9N/7gn+sazxrYOrwp3Oo19Wlz69FFbZM2nYOx8zfi+qt3lq
+jyf4r8GbRFFdRvHc8Urgmza+HK5rGJ2LPvd6aKT97oXi4bxXayc+r66+ljBxxlYy
+MBj2ddHD2eZ/NAXZTYtPD2Y5Rw+dKM9ZQF1HZjthyrdNdrr49Fh8YnDF6qsXPWqD
+w+HMevigrjTCvIaJCQiXMve+vLs8dHgktD8wO99li3ywbeMZa2Xazg+p43waU30/
+/VJJzvrBeyGH3+Bmo4jbIPNE18j+bnfq+LR72LOr5vbpktS/S9e67t+yVvjPd8S1
+xLe3+Gx41mvOPpZwNmUoJarlX0Bx054=
+=LqWH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikepeligroso
+
+==================================================================
